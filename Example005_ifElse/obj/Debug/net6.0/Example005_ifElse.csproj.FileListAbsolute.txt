@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example005_ifElse\bin\Debug\net6.0\Example005_ifElse.exe
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example005_ifElse\bin\Debug\net6.0\Example005_ifElse.deps.json
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example005_ifElse\bin\Debug\net6.0\Example005_ifElse.runtimeconfig.json
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example005_ifElse\bin\Debug\net6.0\Example005_ifElse.dll
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example005_ifElse\bin\Debug\net6.0\Example005_ifElse.pdb
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.dll
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example005_ifElse\obj\Debug\net6.0\refint\Example005_ifElse.dll
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.pdb
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example005_ifElse\obj\Debug\net6.0\Example005_ifElse.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example005_ifElse\obj\Debug\net6.0\ref\Example005_ifElse.dll
