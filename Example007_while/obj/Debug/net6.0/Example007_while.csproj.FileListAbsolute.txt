@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example007_while\bin\Debug\net6.0\Example007_while.exe
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example007_while\bin\Debug\net6.0\Example007_while.deps.json
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example007_while\bin\Debug\net6.0\Example007_while.runtimeconfig.json
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example007_while\bin\Debug\net6.0\Example007_while.dll
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example007_while\bin\Debug\net6.0\Example007_while.pdb
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example007_while\obj\Debug\net6.0\Example007_while.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example007_while\obj\Debug\net6.0\Example007_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example007_while\obj\Debug\net6.0\Example007_while.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example007_while\obj\Debug\net6.0\Example007_while.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example007_while\obj\Debug\net6.0\Example007_while.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example007_while\obj\Debug\net6.0\Example007_while.dll
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example007_while\obj\Debug\net6.0\refint\Example007_while.dll
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example007_while\obj\Debug\net6.0\Example007_while.pdb
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example007_while\obj\Debug\net6.0\Example007_while.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\Geekbrains\C#\Examples\Example007_while\obj\Debug\net6.0\ref\Example007_while.dll
