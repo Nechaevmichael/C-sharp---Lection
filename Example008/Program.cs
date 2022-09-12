@@ -9,15 +9,15 @@ int Max(int arg1, int arg2, int arg3)
 
 int[] array = {11, 21, 31, 41, 15, 61, 17, 18, 19};
 
-// int a1 = 15;
-// int b1 = 21;
-// int c1 = 39;
-// int a2 = 12;
-// int b2 = 2311;
-// int c2 = 33;
-// int a3 = 13;
-// int b3 = 23;
-// int c3 = 313;
+int a1 = 15;
+int b1 = 21;
+int c1 = 39;
+int a2 = 12;
+int b2 = 2311;
+int c2 = 33;
+int a3 = 13;
+int b3 = 23;
+int c3 = 313;
 
 // int max1 = Max(a1, b1, c1);
 // int max2 = Max(a2, b2, c2);
